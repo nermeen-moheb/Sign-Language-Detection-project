@@ -1,0 +1,9 @@
+For first model
+Kaggle
+mediapipe-model-maker
+tensorflow==2.15
+
+for second model 
+Kaggle
+split-folders
+tensorflow
